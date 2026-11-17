@@ -1,0 +1,303 @@
+{
+  "builtAt": "2026-11-17T21:43:40.510Z",
+  "fileCount": 74,
+  "totalBytes": 45789022,
+  "files": [
+    {
+      "path": "assets/characters/mixamo/archer.glb",
+      "bytes": 902616
+    },
+    {
+      "path": "assets/characters/mixamo/archer_clips.glb",
+      "bytes": 1233976
+    },
+    {
+      "path": "assets/characters/mixamo/mixamo_clips.glb",
+      "bytes": 3286476
+    },
+    {
+      "path": "assets/characters/mixamo/paladin.glb",
+      "bytes": 1230920
+    },
+    {
+      "path": "assets/characters/quaternius_ual/AnimationLibrary_Godot_Standard.bin",
+      "bytes": 1587224
+    },
+    {
+      "path": "assets/characters/quaternius_ual/AnimationLibrary_Godot_Standard.gltf",
+      "bytes": 2459987
+    },
+    {
+      "path": "assets/characters/quaternius_ual/LICENSE.txt",
+      "bytes": 7048
+    },
+    {
+      "path": "assets/index-GYgk8yfc.css",
+      "bytes": 31588
+    },
+    {
+      "path": "assets/index-pdd__zmO.js",
+      "bytes": 1190937
+    },
+    {
+      "path": "assets/props/antique_estoc/antique_estoc.glb",
+      "bytes": 243580
+    },
+    {
+      "path": "assets/props/brass_candleholders/brass_candleholders.glb",
+      "bytes": 995256
+    },
+    {
+      "path": "assets/props/dead_tree_trunk/dead_tree_trunk.glb",
+      "bytes": 759992
+    },
+    {
+      "path": "assets/props/GothicCabinet_01/GothicCabinet_01.glb",
+      "bytes": 726956
+    },
+    {
+      "path": "assets/props/kite_shield/kite_shield.glb",
+      "bytes": 331288
+    },
+    {
+      "path": "assets/props/large_castle_door/large_castle_door.bin",
+      "bytes": 422436
+    },
+    {
+      "path": "assets/props/large_castle_door/large_castle_door_1k.gltf",
+      "bytes": 6445
+    },
+    {
+      "path": "assets/props/large_castle_door/textures/large_castle_door_arm_1k.jpg",
+      "bytes": 1016111
+    },
+    {
+      "path": "assets/props/large_castle_door/textures/large_castle_door_diff_1k.jpg",
+      "bytes": 803253
+    },
+    {
+      "path": "assets/props/large_castle_door/textures/large_castle_door_nor_gl_1k.jpg",
+      "bytes": 1023095
+    },
+    {
+      "path": "assets/props/ornate_medieval_mace/ornate_medieval_mace.glb",
+      "bytes": 279040
+    },
+    {
+      "path": "assets/props/rock_moss_set_01/rock_moss_set_01.glb",
+      "bytes": 559892
+    },
+    {
+      "path": "assets/props/root_cluster_01/root_cluster_01.glb",
+      "bytes": 307036
+    },
+    {
+      "path": "assets/props/treasure_chest/treasure_chest.glb",
+      "bytes": 928768
+    },
+    {
+      "path": "assets/props/tree_stump_01/tree_stump_01.glb",
+      "bytes": 338884
+    },
+    {
+      "path": "assets/props/wine_barrel_01/textures/wine_barrel_01_arm_1k.jpg",
+      "bytes": 172531
+    },
+    {
+      "path": "assets/props/wine_barrel_01/textures/wine_barrel_01_diff_1k.jpg",
+      "bytes": 195980
+    },
+    {
+      "path": "assets/props/wine_barrel_01/textures/wine_barrel_01_nor_gl_1k.jpg",
+      "bytes": 163587
+    },
+    {
+      "path": "assets/props/wine_barrel_01/wine_barrel_01.bin",
+      "bytes": 385912
+    },
+    {
+      "path": "assets/props/wine_barrel_01/wine_barrel_01_1k.gltf",
+      "bytes": 7046
+    },
+    {
+      "path": "assets/props/wooden_bowl_01/wooden_bowl_01.glb",
+      "bytes": 129332
+    },
+    {
+      "path": "assets/props/wooden_bucket_01/textures/wooden_bucket_01_arm_1k.jpg",
+      "bytes": 777463
+    },
+    {
+      "path": "assets/props/wooden_bucket_01/textures/wooden_bucket_01_diff_1k.jpg",
+      "bytes": 698083
+    },
+    {
+      "path": "assets/props/wooden_bucket_01/textures/wooden_bucket_01_nor_gl_1k.jpg",
+      "bytes": 693440
+    },
+    {
+      "path": "assets/props/wooden_bucket_01/wooden_bucket_01.bin",
+      "bytes": 158408
+    },
+    {
+      "path": "assets/props/wooden_bucket_01/wooden_bucket_01_1k.gltf",
+      "bytes": 4485
+    },
+    {
+      "path": "assets/props/wooden_candlestick/wooden_candlestick.glb",
+      "bytes": 211088
+    },
+    {
+      "path": "assets/props/wooden_crate_01/textures/wooden_crate_01_arm_1k.jpg",
+      "bytes": 776699
+    },
+    {
+      "path": "assets/props/wooden_crate_01/textures/wooden_crate_01_diff_1k.jpg",
+      "bytes": 711292
+    },
+    {
+      "path": "assets/props/wooden_crate_01/textures/wooden_crate_01_nor_gl_1k.jpg",
+      "bytes": 594076
+    },
+    {
+      "path": "assets/props/wooden_crate_01/wooden_crate_01.bin",
+      "bytes": 189408
+    },
+    {
+      "path": "assets/props/wooden_crate_01/wooden_crate_01_1k.gltf",
+      "bytes": 5924
+    },
+    {
+      "path": "assets/props/wooden_ladder/wooden_ladder.glb",
+      "bytes": 260908
+    },
+    {
+      "path": "assets/props/wooden_lantern_01/wooden_lantern_01.glb",
+      "bytes": 725452
+    },
+    {
+      "path": "assets/props/wooden_stool_01/wooden_stool_01.glb",
+      "bytes": 191300
+    },
+    {
+      "path": "assets/props/wooden_table_02/wooden_table_02.glb",
+      "bytes": 144152
+    },
+    {
+      "path": "assets/textures/castle_wall_slates/castle_wall_slates_arm_1k.jpg",
+      "bytes": 298965
+    },
+    {
+      "path": "assets/textures/castle_wall_slates/castle_wall_slates_diff_1k.jpg",
+      "bytes": 625282
+    },
+    {
+      "path": "assets/textures/castle_wall_slates/castle_wall_slates_nor_gl_1k.jpg",
+      "bytes": 1072473
+    },
+    {
+      "path": "assets/textures/castle_wall_varriation/castle_wall_varriation_arm_1k.jpg",
+      "bytes": 241430
+    },
+    {
+      "path": "assets/textures/castle_wall_varriation/castle_wall_varriation_diff_1k.jpg",
+      "bytes": 619014
+    },
+    {
+      "path": "assets/textures/castle_wall_varriation/castle_wall_varriation_nor_gl_1k.jpg",
+      "bytes": 970942
+    },
+    {
+      "path": "assets/textures/medieval_wood/medieval_wood_arm_1k.jpg",
+      "bytes": 170315
+    },
+    {
+      "path": "assets/textures/medieval_wood/medieval_wood_diff_1k.jpg",
+      "bytes": 747216
+    },
+    {
+      "path": "assets/textures/medieval_wood/medieval_wood_nor_gl_1k.jpg",
+      "bytes": 827061
+    },
+    {
+      "path": "assets/textures/mossy_cobblestone/mossy_cobblestone_arm_1k.jpg",
+      "bytes": 715595
+    },
+    {
+      "path": "assets/textures/mossy_cobblestone/mossy_cobblestone_diff_1k.jpg",
+      "bytes": 1089617
+    },
+    {
+      "path": "assets/textures/mossy_cobblestone/mossy_cobblestone_nor_gl_1k.jpg",
+      "bytes": 980112
+    },
+    {
+      "path": "assets/textures/rock_wall_08/rock_wall_08_arm_1k.jpg",
+      "bytes": 641390
+    },
+    {
+      "path": "assets/textures/rock_wall_08/rock_wall_08_diff_1k.jpg",
+      "bytes": 768570
+    },
+    {
+      "path": "assets/textures/rock_wall_08/rock_wall_08_nor_gl_1k.jpg",
+      "bytes": 1236281
+    },
+    {
+      "path": "assets/textures/rusty_metal_02/rusty_metal_02_arm_1k.jpg",
+      "bytes": 153031
+    },
+    {
+      "path": "assets/textures/rusty_metal_02/rusty_metal_02_diff_1k.jpg",
+      "bytes": 564932
+    },
+    {
+      "path": "assets/textures/rusty_metal_02/rusty_metal_02_nor_gl_1k.jpg",
+      "bytes": 403156
+    },
+    {
+      "path": "assets/textures/sparse_grass/sparse_grass_arm_1k.jpg",
+      "bytes": 978007
+    },
+    {
+      "path": "assets/textures/sparse_grass/sparse_grass_diff_1k.jpg",
+      "bytes": 955945
+    },
+    {
+      "path": "assets/textures/sparse_grass/sparse_grass_nor_gl_1k.jpg",
+      "bytes": 1440314
+    },
+    {
+      "path": "assets/textures/Tiles130/Tiles130_ao_1k.jpg",
+      "bytes": 309426
+    },
+    {
+      "path": "assets/textures/Tiles130/Tiles130_diff_1k.jpg",
+      "bytes": 699001
+    },
+    {
+      "path": "assets/textures/Tiles130/Tiles130_nor_gl_1k.jpg",
+      "bytes": 718580
+    },
+    {
+      "path": "assets/textures/Tiles130/Tiles130_rough_1k.jpg",
+      "bytes": 251913
+    },
+    {
+      "path": "assets/trees/forest_albedo.webp",
+      "bytes": 237034
+    },
+    {
+      "path": "assets/trees/forest_atlas.json",
+      "bytes": 2027
+    },
+    {
+      "path": "assets/trees/forest_normal.webp",
+      "bytes": 201048
+    },
+    {
+      "path": "index.html",
+      "bytes": 975
+    }
+  ]
+}
